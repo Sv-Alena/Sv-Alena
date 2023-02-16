@@ -20,7 +20,16 @@
 ---
 
 ### ⚙️ GitHub статистика:
+<table>
+<tr>
+<td>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sv-Alena&theme=dark)](https://git.io/streak-stats)
-   
-      
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sv-Alena&theme=dark&align="left" )](https://git.io/streak-stats)
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv-Alena&theme=dark)](https://github.com/Sv-Alena/github-readme-stats)
+</td>
+</tr>
+</table
+
