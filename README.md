@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElenaSvyatoshenko&theme=dark)](https://git.io/streak-stats)" alt="webDev's Github stats" />
+      <img align="left" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sv-Alena&theme=dark)](https://git.io/streak-stats)" alt="webDev's Github stats" />
     </td>
-    <td>
+    <!-- <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sv-Alena&layout=compact&theme=vision-friendly-dark" />
-    </td>
+    </td> -->
   </tr>
 </table>
