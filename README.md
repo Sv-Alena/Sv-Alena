@@ -30,6 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv-Alena&theme=dark)](https://github.com/Sv-Alena/github-readme-stats)
 </td>
-</tr>
+
 </table
 
