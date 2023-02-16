@@ -1,16 +1,33 @@
-### Hi there 👋
+# Привет, меня зовут Елена!
+---
+### :man_technologist: Обо мне:
 
-<!--
-**Sv-Alena/Sv-Alena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Увлеклась веб разработкой. Не могу остановится <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-Here are some ideas to get you started:
+#### Как связаться со мной: 
+  [![Telegram Badge](https://img.shields.io/badge/-ElenaSvyatoshenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ElenaSvyatoshenko) [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=mail&logoColor=white)](mailto:lena.svyatoshenko@mail.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 💻 Технологии:
+![react](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
+![javaScript](https://img.shields.io/badge/-javaScript-090909?style=for-the-badge&logo=javaScript)
+![bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![css](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=418acf)
+![html](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=e44d25)
+![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=ef3c2d)
+![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=0acf84)
+![photoshop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=photoshop)
+---
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
