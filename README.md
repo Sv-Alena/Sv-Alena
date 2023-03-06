@@ -33,3 +33,6 @@
 
 </table
 
+ <kbd>
+<image src="https://ptzgovorit.ru/sites/default/files/original_nodes/aurora-borealis-32-cool-wallpapers-hd.jpg" alt="night">
+</kbd>
