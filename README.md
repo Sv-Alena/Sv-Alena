@@ -2,7 +2,7 @@
 ---
 ### :woman_technologist: Обо мне:
 
- Увлеклась веб разработкой. Не могу остановится <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+ Увлеклась веб разработкой. Не могу остановиться <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 #### Как связаться со мной: 
   [![Telegram Badge](https://img.shields.io/badge/-ElenaSvyatoshenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ElenaSvyatoshenko) [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=mail&logoColor=white)](mailto:lena.svyatoshenko@mail.ru)
@@ -33,6 +33,6 @@
 
 </table
 
- <kbd>
+<kbd>
 <image src="https://ptzgovorit.ru/sites/default/files/original_nodes/aurora-borealis-32-cool-wallpapers-hd.jpg" alt="night">
 </kbd>
