@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
   Привет, меня зовут Елена!
 </h1>
 </div>
@@ -26,7 +26,7 @@
 ### :woman_technologist: Обо мне:
 Я разработчик web-приложений  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- :telescope: Я создаю frontend и backend веб-приложения.
+- :telescope: Создаю frontend и backend веб-приложения.
 
 - :zap: С моими работами можно ознакомиться тут
   <div>
