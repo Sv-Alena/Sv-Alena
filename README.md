@@ -2,7 +2,6 @@
 <div>
  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100px"/>
 </div>
-</div>
 <div id="badges" align="center">
   <a href="mailto:lena.svyatoshenko@mail.ru">
     <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
