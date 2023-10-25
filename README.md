@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-<h1  align="center">
- 
+<div align="center">
+<h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Привет, меня зовут Елена!
 </h1>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif" width="500" height="300"/>
 </div>
