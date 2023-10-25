@@ -16,11 +16,8 @@
   Привет, меня зовут Елена!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif
-" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif" width="600" height="300"/>
 </div>
 </div>
 
